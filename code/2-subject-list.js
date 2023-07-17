@@ -26,4 +26,5 @@ function removeSubject() {
 
   // remove 1 item at the index position of the subjects array
   subjects.splice(index, 1)
+  let arrayLength = arrayName.length
 }
