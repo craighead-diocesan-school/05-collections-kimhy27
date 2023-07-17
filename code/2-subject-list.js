@@ -12,9 +12,9 @@ let subjects = [
 function showSubjects() {
   alert(subjects)
 }
-
+ 
 function addSubject() {
-  
+
   let newSubject = prompt('What new subject would you like to add?')
 
   // add a new item to the end of the subjects array
